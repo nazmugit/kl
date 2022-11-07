@@ -11,7 +11,7 @@ kingdomlikes_password = "Mhamdani@123"
 google_email = "id.nazmu@gmail.com"
 google_password = ""
 
-instagram_username = ""
+instagram_username = "sayidatunnafisah2"
 instagram_password = "Mhamdani@123"
 
 actions_per_module = "20"
