@@ -9,7 +9,7 @@ kingdomlikes_email = "id.nazmu@gmail.com"
 kingdomlikes_password = "Mhamdani@123"
 
 google_email = "id.nazmu@gmail.com"
-google_password = ""
+google_password = "Mhamdani@140693"
 
 instagram_username = "sayidatunnafisah2"
 instagram_password = "Mhamdani@123"
