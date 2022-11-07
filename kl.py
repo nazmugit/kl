@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 kingdomlikes_email = "id.nazmu@gmail.com"
 kingdomlikes_password = "Mhamdani@123"
 
-google_email = ""
+google_email = "id.nazmu@gmail.com"
 google_password = ""
 
 instagram_username = ""
