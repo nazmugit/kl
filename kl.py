@@ -5,14 +5,14 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 # Configuration
-kingdomlikes_email = ""
-kingdomlikes_password = ""
+kingdomlikes_email = "id.nazmu@gmail.com"
+kingdomlikes_password = "Mhamdani@123"
 
 google_email = ""
 google_password = ""
 
 instagram_username = ""
-instagram_password = ""
+instagram_password = "Mhamdani@123"
 
 actions_per_module = "20"
 
